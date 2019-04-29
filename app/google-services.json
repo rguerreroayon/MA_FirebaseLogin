@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041640665979",
+    "firebase_url": "https://logintest-be520.firebaseio.com",
+    "project_id": "logintest-be520",
+    "storage_bucket": "logintest-be520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041640665979:android:c35eb062b0e870e2",
+        "android_client_info": {
+          "package_name": "rguerrero.firebase.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041640665979-1gm2c5dt8r343tq7414v7fcl7oep4r6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rguerrero.firebase.login",
+            "certificate_hash": "10745bba5b20b719a32e6efa624b471958b44187"
+          }
+        },
+        {
+          "client_id": "1041640665979-8ues7mcgghbg7c4v2kg3j8hf5e6caeu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBokvtvUvwxUDw7DT0rEyaVYfU3Z_hR89A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041640665979-8ues7mcgghbg7c4v2kg3j8hf5e6caeu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
